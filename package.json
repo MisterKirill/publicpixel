@@ -1,0 +1,18 @@
+{
+  "name": "publicpixel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "myst",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.9"
+  },
+  "dependencies": {
+    "youtube-chat": "^2.1.1"
+  }
+}
